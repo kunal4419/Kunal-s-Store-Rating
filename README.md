@@ -9,7 +9,7 @@ A full-stack platform for rating stores, featuring user, owner, and admin roles.
 
 🏪 Store Management (owners can add/edit stores).
 
-⭐ Ratings & Reviews (users can leave ratings with comments).
+⭐ Ratings & Reviews (users can leave ratings).
 
 👨‍💼 Admin Dashboard (manage users, owners, and reviews).
 
